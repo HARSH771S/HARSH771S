@@ -20,8 +20,8 @@ I'm a website developer and have some capability of software testing. <br>🌱I'
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### 😂 Random Dev Meme
-<a href ="https://9gag.com/" width="512px"/>
 
+<img src="https://9gag.com/" width="512px" alt="no"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=HASRH771S&icon=1&color=0)](https://visitcount.itsvg.in)
 
