@@ -18,11 +18,3 @@ I'm a website developer and have some capability of software testing. <br>🌱I'
 [![](https://visitcount.itsvg.in/api?id=HARSH771S&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 😂 Random Dev Meme
-
-<img src="[https://9gag.com/](https://media.istockphoto.com/id/121199853/photo/closeup-of-guy-working-on-a-laptop-indoor.jpg?s=1024x1024&w=is&k=20&c=0uAngvDAolHrh_LUWorV6ZJD5AVO6g2tfavtw9PPHYQ=)" width="512px"/>
----
-[![](https://visitcount.itsvg.in/api?id=HASRH771S&icon=1&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
