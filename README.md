@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Data Analyst and have some capability of analyze large data sets. <br>🌱I'm currently learning Python, MySQL, Power BI<br>👯 I’m looking to collaborate on data analysis projects<br>🤝 I’m looking for help with appointment in company<br>💬 All of my project are available at https://github.com/HARSH771S<br>⚡ how to reach me harshgupta4688@gmail.com
+I'm a Data Analyst and have some capability to analyze large data sets. <br>🌱I'm currently learning Python, MySQL, Power BI<br>👯 I’m looking to collaborate on data analysis projects<br>🤝 I’m looking for help with appointment in company<br>💬 All of my project are available at https://github.com/HARSH771S<br>⚡ how to reach me harshgupta4688@gmail.com
 
 
 ## 🌐 Socials:
