@@ -1,6 +1,20 @@
-# 💫 About Me:
-I'm a Tech Professional and have some capability to analyze large data sets. <br>🌱I'm currently learning Python, MySQL, Power BI<br>👯 I’m looking to collaborate on data analysis projects<br>🤝 I’m looking for help with appointment in company<br>💬 All of my project are available at https://github.com/HARSH771S<br>⚡ how to reach me harshgupta4688@gmail.com
+# 💫 About Me
 
+👨‍💻 I'm a tech professional with an MCA degree and hands-on experience in AI/ML data annotation, data validation, and quality assurance.
+
+🌱 Currently strengthening my skills in Python, SQL, Power BI, and software testing.
+
+🔍 Interested in Data Analytics, QA Testing, AI/ML, and data-driven problem-solving.
+
+🤝 Open to collaborating on data analytics, AI/ML, and software testing projects.
+
+💼 Actively seeking opportunities to learn, contribute, and grow in the tech industry.
+
+🛠️ Explore my projects: [GitHub](https://github.com/HARSH771S)
+
+📫 Reach me at: harshgupta4688@gmail.com
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-gupta-43610a234/)
 
 ## 🌐 Socials:
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HarshGupta)-->
